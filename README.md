@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sebastian Daza]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sebastian-daza-delgadillo-20b889144/))  
+# 👋 Hi, I'm [Sebastian Daza](https://www.linkedin.com/in/sebastian-daza-delgadillo-20b889144/)  
 
 I'm a **Frontend Developer** passionate about creating visually appealing and functional web interfaces. I specialize in frontend development and have basic backend knowledge, allowing me to build complete solutions.  
 
