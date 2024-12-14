@@ -19,7 +19,8 @@ A brief description of another project.
 - **Tech Stack**: Node.js, JavaScript, Docker  
 - **Key Features**: API integration, backend logic
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastian11020&show_icons=true&hide_title=true&hide=prs)
+## 📊 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian11020&layout=compact)
 
 ## 🤝 Let's Connect!  
 
