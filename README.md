@@ -9,12 +9,12 @@ I'm a **Frontend Developer** passionate about creating visually appealing and fu
 
 ## 📂 Featured Projects  
 
-### 🚀 [Farmacia-front](#)  
+### 🚀 [Farmacia-front](https://github.com/sebastian11020/Farmacia-front)  
 A brief description of this project.  
 - **Tech Stack**: Vue.js, JavaScript,Scss 
 - **Key Features**: Responsive design, interactive UI  
 
-### 🚀 [Tokenizer-Lab](#)  
+### 🚀 [Tokenizer-Lab](https://github.com/sebastian11020/Tokenizer-Lab)  
 A brief description of another project.  
 - **Tech Stack**: Node.js, JavaScript, Docker  
 - **Key Features**: API integration, backend logic  
