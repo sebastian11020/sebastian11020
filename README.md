@@ -17,7 +17,9 @@ A brief description of this project.
 ### 🚀 [Tokenizer-Lab](https://github.com/sebastian11020/Tokenizer-Lab)  
 A brief description of another project.  
 - **Tech Stack**: Node.js, JavaScript, Docker  
-- **Key Features**: API integration, backend logic  
+- **Key Features**: API integration, backend logic
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastian11020&show_icons=true&hide_title=true&hide=prs)
 
 ## 🤝 Let's Connect!  
 
