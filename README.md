@@ -4,7 +4,7 @@ I'm a **Frontend Developer** passionate about creating visually appealing and fu
 
 ## 🌟 About Me  
 - 💻 **Frontend**: JavaScript, Vue.js  
-- 🔧 **Backend**: Node.js, Java (basic knowledge)  
+- 🔧 **Backend**: Node.js, Java 
 - 🛠️ **Tools**: Git, npm, Webpack  
 
 ## 📂 Featured Projects  
